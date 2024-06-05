@@ -8,6 +8,24 @@
 { color: #C788F4;}
 */
 
+.page-wrapper {
+    position: relative;
+}
+
+.explanation {
+    width: 60%;
+    border-right: #1f295c solid 1px;
+    padding-right: 2%;
+}
+
+#design-selection {
+    position: absolute;
+    top: 560px;
+    left: 62%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
 .main footer {
     margin: 4%;
 }
